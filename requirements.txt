@@ -1,9 +1,11 @@
+# diffusers
 git+https://github.com/huggingface/diffusers.git@d1c575ad7ee0390c2735f50cc59a79aae666567a#egg=diffusers
 SwissArmyTransformer
 torch==2.4.0
 torchvision==0.19.0
 streamlit==1.37.0
-opencv-python==4.10
+# opencv-python==4.10
+opencv-python==4.10.0.82
 imageio-ffmpeg==0.5.1
 openai==1.38.0
 transformers==4.43.4
