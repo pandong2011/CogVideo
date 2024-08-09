@@ -7,3 +7,5 @@ master_ip
 logs/
 *.DS_Store
 .idea
+# directory of local dependency
+venv
