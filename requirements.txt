@@ -12,3 +12,8 @@ transformers==4.43.4
 accelerate==0.33.0
 sentencepiece==0.2.0
 pillow==9.5.0
+# add new dependency
+pytorch-lightning
+# decord
+omegaconf
+imageio
